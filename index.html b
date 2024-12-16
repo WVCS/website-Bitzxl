@@ -13,5 +13,33 @@
 </html>
 
 <style>
-  
+  body 
+{
+  background-color: #be482f;
+}
+
+h1 {
+  color: green;
+  font-size: 30px;
+  font-style: oblique;
+  text-decoration-line: overline underline;
+  letter-spacing: 3px;
+  text-shadow: 2px 1px orange;
+}
+
+h1:hover {
+  text-shadow: 2px 2px red;
+  text-decoration-line: overline underline;
+}
+
+img {
+  width: 25%;
+  border-radius: 820px;
+  border: dotted 10px orange;
+}
+
+img:hover {
+  width: 250px;
+  border: dotted 15px red;
+}
 </style>
